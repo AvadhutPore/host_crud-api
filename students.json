@@ -1,26 +1,28 @@
-[
-  {
-    "id": "1",
-    "name": "Ninad S",
-    "place": "Kolhapur",
-    "phone": "9025425545"
-  },
-  {
-    "id": "2",
-    "name": "Sourabh",
-    "place": "Kolhapur",
-    "phone": "925529945"
-  },
-  {
-    "id": "3",
-    "name": "Varun",
-    "place": "Pune",
-    "phone": "21345784578"
-  },
-  {
-    "id": "4",
-    "name": "Pavan",
-    "place": "Kagal",
-    "phone": "4521458754"
-  }
-]
+{
+  "students": [
+    {
+      "id": "1",
+      "name": "Ninad S",
+      "place": "Kolhapur",
+      "phone": "9025425545"
+    },
+    {
+      "id": "2",
+      "name": "Sourabh",
+      "place": "Kolhapur",
+      "phone": "925529945"
+    },
+    {
+      "id": "3",
+      "name": "Varun",
+      "place": "Pune",
+      "phone": "21345784578"
+    },
+    {
+      "id": "4",
+      "name": "Pavan",
+      "place": "Kagal",
+      "phone": "4521458754"
+    }
+  ]
+}
